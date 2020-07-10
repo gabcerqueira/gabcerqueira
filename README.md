@@ -11,7 +11,5 @@
 <a href="mailto:gabcerqueira97@gmail.com" target="_blank" >
   <img align="left" alt="Gmail - Gabriel Cerqueira" src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabcerqueira97@gmail.com&longCache=true"">
 </a>&nbsp;&nbsp;&nbsp;
-<br>
-<br>
 <blockquote align="center">“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.</blockquote><br>
 <blockquote align="center">"-Martin Fowler"</blockquote>
