@@ -5,7 +5,7 @@
  have you heared about clean code ? no ? check this out :punch: : https://g.co/kgs/n4CciH
  
  <a href="https://www.linkedin.com/in/gabriel-cerqueira-a757441ab" target="_blank" >
-  <img align="left" alt="Linkedin - Stefano Saffran" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/gabriel-cerqueira-a757441ab/"">
+  <img align="left" alt="Linkedin - Gabriel Cerqueira" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/gabriel-cerqueira-a757441ab/"">
 </a>&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:gabcerqueira97@gmail.com" target="_blank" >
