@@ -2,7 +2,7 @@
  
  Hi there 👋
  
- have you heard about clean code ? no ? check this out :punch: : https://g.co/kgs/n4CciH
+ Have you heard about clean code ? no ? check this out :punch: : https://g.co/kgs/n4CciH
  
  <a href="https://www.linkedin.com/in/gabriel-cerqueira-a757441ab" target="_blank" >
   <img align="left" alt="Linkedin - Gabriel Cerqueira" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/gabriel-cerqueira-a757441ab/"">
